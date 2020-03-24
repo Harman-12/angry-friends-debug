@@ -1,2 +1,2 @@
-# angry-friends-debug
-It is a debugged version of the angry friends game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
